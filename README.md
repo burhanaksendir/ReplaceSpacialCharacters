@@ -1,4 +1,4 @@
-# ReplaceSpecialCharacters
+# Replace Special Characters
 Replace all special characters in a String using replaceAllMapped method and RegExp.
 
   Example usage:
