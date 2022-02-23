@@ -1,4 +1,4 @@
-# ReplaceSpacialCharacters
+# ReplaceSpecialCharacters
 Replace all special characters in a String.
 
   Example usage:
