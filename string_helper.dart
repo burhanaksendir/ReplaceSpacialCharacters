@@ -15,7 +15,7 @@ class StringHelper {
       for (var i = 0; i < m.start; i++) {
         return replacementMap[m[i]]!;
       }
-      return '...';
+      return input;
     });
   }
 }
