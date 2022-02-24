@@ -16,7 +16,7 @@ Replaces accents from a string by replacing them with an equivalent character.
 
 
 Bu String yardımcısı, Dart dilinde yazılmıştır. replaceAllMapped yöntemini ve RegExp'i kullanarak 
-bir yazı veya kelimedeki, sizin belirleyeceğiz tüm özel karakterleri istediğiniz karakterlere hızlıca dönüştürür. 
+bir yazı veya kelimedeki, sizin belirleyeceğiz tüm özel karakterleri istediğiniz karakterlere hızlıca dönüştürme işlevini gerçekleştirir. 
 
 Bir yazıdaki â,û, î, ç, ş, ğ vb karakterleri, sizin belirleyeceğiniz eşdeğer bir karakterle kolayca değiştirir.
 
