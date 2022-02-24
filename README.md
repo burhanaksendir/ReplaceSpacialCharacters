@@ -15,7 +15,7 @@ Replaces accents from a string by replacing them with an equivalent character.
   Cafer-i Sadık,  Veysel Karani, Yahya b. Muaz, Ebu Hazim Mekki,  İmam Şafii, Cüneyd-i Bağdadi
 
 
-BunString yardımcısı, Dart dilinde yazılmıştır. replaceAllMapped yöntemini ve RegExp'i kullanarak 
+Bu String yardımcısı, Dart dilinde yazılmıştır. replaceAllMapped yöntemini ve RegExp'i kullanarak 
 bir yazı veya kelimedeki, sizin belirleyeceğiz tüm özel karakterleri istediğiniz karakterlere hızlıca dönüştürür. 
 Bir yazıdaki âûî vb karakterleri, sizin belirleyeceğiniz eşdeğer bir karakterle değiştirir.
 
