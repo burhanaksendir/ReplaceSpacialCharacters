@@ -10,12 +10,7 @@ class StringHelper {
       kSampleAccentedCharacters.split(""), kSampleReplacedCharacters.split(""));
   
   /// Replace all the characters you want with new characters with the replaceChars method.
-  static String replaceChars(String input) {
-    return input.replaceAllMapped(regExr, (m) {
-      for (var i = 0; i < m.start; i++) {
-        return replacementMap[m[i]]!;
-      }
-      return input;
-    });
+ static String replaceChars(String input) {
+    return input.replaceAllMapped(regExr, (m) => replacementMap[m.group(0)]!);
   }
 }
